@@ -1,7 +1,7 @@
 <h1>Hi There, I am Satyam Soni <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Computer Science student**, I will graduate in **2024** from **Vellore Institute of Technology**.
-In my free time I like to watch movies, read blogs and participate in online contests.
+In my free time I like to watch movies, play games and participate in online contests.
 
 ## Skill Set :muscle:
 
