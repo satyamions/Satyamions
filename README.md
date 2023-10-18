@@ -5,8 +5,6 @@ In my free time I like to watch movies, play games and read books. :movie_camera
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
-
 | Frontend | Backend | Database | Cloud | Tools |
 | :---: | :---: | :---: | :---: | :---: |
 | HTML5 | Python | SQL | Google Cloud | VS Code |
