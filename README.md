@@ -5,7 +5,7 @@ In my free time I like to watch movies, play games and read books.
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+## Major technologies that I use or have worked on in the past:
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -16,8 +16,6 @@ These are some of the major technologies that I use or have worked on in the pas
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 </div>
-
-## Technologies currently using
 
 <div>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
