@@ -26,7 +26,12 @@ These are some of the major technologies I use or have worked with:
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-<h1 align="center"></h1>
+**Machine Learning & AI Enthusiast**
+
+<p align="center">
+  <img alt="Machine Learning" src="https://img.icons8.com/nolan/96/machine-learning.png" width="80px" />
+  <img alt="Artificial Intelligence" src="https://img.icons8.com/nolan/96/artificial-intelligence.png" width="80px" />
+</p>
 
 **Databases**
 
@@ -44,6 +49,12 @@ These are some of the major technologies I use or have worked with:
   <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 </div>
+
+**LeetCode Enthusiast**
+
+<p align="center">
+  <img alt="LeetCode" src="https://img.icons8.com/color/96/000000/leetcode.png" width="80px" />
+</p>
 
 <h1 align="center"></h1>
 
